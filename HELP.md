@@ -1,7 +1,7 @@
 # Read Me First
 The following was discovered as part of building this project:
 
-* The original package name 'com.polarbookshop.config-service' is invalid and this project uses 'com.polarbookshop.config_service' instead.
+* The original package name 'com.polarbookshop.config-service' is invalid and this project uses 'com.polarbookshop.configservice' instead.
 
 # Getting Started
 
